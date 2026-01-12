@@ -5,7 +5,7 @@ A modern **Android mobile application** designed to **organize group trips** and
 
 Users can discover adventures, create trips, join groups, chat with participants, and manage travel requests – all in one place.
 
-This project was developed as part of an academic and personal exploration of mobile applications development and UX/UI design. Thanks to [michepaolo](github.com/michepaolo), [VaglioFabiano](github.com/VaglioFabiano) and [villanovafrancesca](github.com/villanovafrancesca) for their contributions.
+This project was developed as part of an academic and personal exploration of mobile applications development and UX/UI design. Thanks to [michepaolo](https://github.com/michepaolo), [VaglioFabiano](https://github.com/VaglioFabiano) and [villanovafrancesca](https://github.com/villanovafrancesca) for their contributions.
 
 ## 🧩 Tech Stack
 
